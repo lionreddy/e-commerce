@@ -1,30 +1,22 @@
-# -Build-a-COMPLETE-Fullstack-ecommerce-Responsive-MERN-App-React-Redux-Nodejs-MongoDB-Express
- Build a COMPLETE Fullstack ecommerce Responsive MERN App | React, Redux, Nodejs, MongoDB, Express
+The process to start the app
 
-Backend Environment variables  : 
+1. clone this repository form my github link.
 
-MONGODB_URL : ""
-STRIPE_SECRET_KEY : "",
-FRONTEND_URL : "",
+https://github.com/pradeepsimha99/e-commerce
 
-MY Backend URL : https://backend-mern-kowt.onrender.com
+2. After cloning the repo go to backend and frontend folder and install the node modules, using the below comman
 
-start : 
+npm install
 
-## npm run dev 
+if the above command does not work it means that, so packages are outdated so we need to install older versions
 
+npm install --legacy-peer-deps
 
-Frontend Environment variables  :
+3. After installing the node packages, go to backend folder and run the code using the command
 
-REACT_APP_SERVER_DOMIN = <backend url>
+npm run dev
 
-REACT_APP_ADMIN_EMAIL = <admin email id >
+4. After that go the front end and run the code using
 
-REACT_APP_STRIPE_PUBLIC_KEY  = <stripe public key>
+npm start
 
-start : 
-
-## npm start
- 
- ## Full Video on Youtube : 
-    Dynamic Coding with Amit
